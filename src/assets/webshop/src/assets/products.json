@@ -1,0 +1,208 @@
+{
+  "producten": [
+    {
+      "id": 1,
+      "title": "Eminem - The Eminem Show (2 LP)",
+      "artist": "Eminem",
+      "omschrijving": "The Eminem Show is een album van Eminem uit 2016",
+      "afbeelding": "/src/assets/images/eminem-lp.png",
+      "prijs": 44.00,
+      "btw_tarief": 21,
+      "voorraad": 25,
+      "eigenschappen": ["vinyls","eminem"]
+    },
+    {
+      "id": 2,
+      "title": "Eminem - Slim Shady (2 LP)",
+      "artist": "Eminem",
+      "omschrijving": "Slim Shady is een album van Eminem uit 2016",
+      "afbeelding": "/src/assets/images/eminem-lp2.png",
+      "prijs": 44,
+      "btw_tarief": 21,
+      "voorraad": 25,
+      "eigenschappen": ["vinyls","eminem"]
+    },
+    {
+      "id": 3,
+      "title": "Eminem - Kamikaze (LP) (Coloured Vinyl)",
+      "artist": "Eminem",
+      "omschrijving": "Kamikaze is een album van Eminem uit 2018",
+      "afbeelding": "/src/assets/images/eminem-lp3.png",
+      "prijs": 39.99,
+      "btw_tarief": 21,
+      "voorraad": 28,
+      "eigenschappen": ["vinyls","eminem", "colored"]
+    },
+    {
+      "id": 4,
+      "title": "Eminem - Music To Be Murdered By (2 LP)",
+      "artist": "Eminem",
+      "omschrijving": "Music To Be Murdered By is het elfde studioalbum van de Amerikaanse rapper Eminem. Het album is geproduceerd door onder meer Eminem en Dr. Dre en op dit album wordt samengewerkt met artiesten als Ed Sheeran, Juice WRLD , Skylar Grey, en Anderson. Paak.",
+      "afbeelding": "/src/assets/images/eminem-lp4.png",
+      "prijs": 36.50,
+      "btw_tarief": 21,
+      "voorraad": 25,
+      "eigenschappen": ["vinyls","eminem"]
+    },
+    {
+      "id": 5,
+      "title": "Rammstein - Rammstein (2 LP)",
+      "omschrijving": "Het is zo ver! Tien jaar na hun laatste studioalbum \"Liebe ist für alle da\", is Rammstein vandaag terug met nieuwe muziek.",
+      "afbeelding": "/src/assets/images/rammstein-lp2.png",
+      "prijs": 48,
+      "btw_tarief": 21,
+      "voorraad": 15,
+      "eigenschappen": ["vinyls","rammstein"]
+    },
+    {
+      "id": 6,
+      "title": "BoyWithUke - LUCID DREAMS (LP)",
+      "omschrijving": "Lucid Dreams is een album van Boywithuke uit 2023 en is uitgebracht onder het label Mercury",
+      "afbeelding": "/src/assets/images/boywithuke-lp.png",
+      "prijs": 30,
+      "btw_tarief": 21,
+      "voorraad": 56,
+      "eigenschappen": ["vinyls","boywithuke"]
+    },
+    {
+      "id": 7,
+      "title": "Sony PS-LX310BT Bluetooth Platenspeler Zwart",
+      "omschrijving": "Wil jij je oude LP-collectie weer eens afspelen of begin je juist net met vinyl? Met de Sony PS-LX310BT platenspeler met Bluetooth. kan je de mooiste muziek op vinyl afspelen, zonder tussenkomst van een losse versterker en bedrade speakers. Deze unieke platenspeler beschikt over een ingebouwde voorversterker en Bluetooth-uitgang..",
+      "afbeelding": "/src/assets/images/sony-platenspeler.png",
+      "prijs": 218,
+      "btw_tarief": 21,
+      "voorraad": 50,
+      "eigenschappen": ["platenspelers & accesiores","platenspeler"]
+    },
+    {
+      "id": 8,
+      "title": "Denver Platenspeler - Retro - VPL120 - Bruin",
+      "omschrijving": "Deze platenspeler combineert het nostalgische met het moderne. Je kunt niet alleen platen afspelen, maar ook muziek van je lp op je pc zetten.",
+      "afbeelding": "/src/assets/images/platenspeler.png",
+      "prijs": 50,
+      "btw_tarief": 21,
+      "voorraad": 0,
+      "eigenschappen": ["platenspelers & accesiores","platenspeler"]
+    },
+    {
+      "id": 9,
+      "title": "÷ \"DIVIDE\" (Deluxe LP)",
+      "omschrijving": "Het derde studioalbum van Ed Sheeran met o.a. de tracks \"Shape of You\", \"Perfect\" & \"Galway Girl\"",
+      "afbeelding": "/src/assets/images/ed-lp.png",
+      "prijs": 36.99,
+      "btw_tarief": 21,
+      "voorraad": 15,
+      "eigenschappen": ["vinyls","ed-sheeran"]
+    },
+    {
+      "id": 10,
+      "title": "= (equals)",
+      "omschrijving": "Het vierde studio album van Ed Sheeran met o.a. de hit 'Bad Habits'",
+      "afbeelding": "/src/assets/images/ed-lp2.png",
+      "prijs": 22.99,
+      "btw_tarief": 21,
+      "voorraad": 15,
+      "eigenschappen": ["vinyls","ed-sheeran"]
+    },
+    {
+      "id": 11,
+      "title": "X \"MULTIPLY\" (LP)",
+      "omschrijving": "Het tweede studioalbum van Ed Sheeran met o.a. de tracks \"Photograph\", \"Thinking out Loud\" & “Sing”",
+      "afbeelding": "/src/assets/images/ed-lp3.png",
+      "prijs": 32,
+      "btw_tarief": 21,
+      "voorraad": 15,
+      "eigenschappen": ["vinyls","ed-sheeran"]
+    },
+    {
+      "id": 12,
+      "title": "Lenco N-20 Stylus - Platenspeler Naald",
+      "omschrijving": "De Lenco N-20 is een handige reservenaald die je eenvoudig zelf kunt vervangen.",
+      "afbeelding": "/src/assets/images/lp-naald.png",
+      "prijs": 25,
+      "btw_tarief": 21,
+      "voorraad": 15,
+      "eigenschappen": ["platenspelers & accesiores","naalden"]
+    },
+    {
+      "id": 13,
+      "title": "Audio Technica - AT-VMN95SH Vervangnaald",
+      "omschrijving": "De AT-VMN95SH is een handige reservenaald die je eenvoudig zelf kunt vervangen.",
+      "afbeelding": "/src/assets/images/lp-naald2.png",
+      "prijs": 189,
+      "btw_tarief": 21,
+      "voorraad": 55,
+      "eigenschappen": ["platenspelers & accesiores","naalden"]
+    },
+    {
+      "id": 14,
+      "title": "Star Wars The Mandalorian Season 2 (Gekleurd Vinyl)",
+      "omschrijving": "De AT-VMN95SH is een handige reservenaald die je eenvoudig zelf kunt vervangen.",
+      "afbeelding": "/src/assets/images/mando-lp.png",
+      "prijs": 57,
+      "btw_tarief": 21,
+      "voorraad": 40,
+      "eigenschappen": ["vinyls","game/movie"]
+    },
+    {
+      "id": 15,
+      "title": "Guardians Of The Galaxy (Coloured Vinyl)",
+      "omschrijving": "De inmiddels classic soundtrack van Guardians Of The Galaxy in een limited edition op Dust Storm gekleurd vinyl. Natuurlijk met de nummers David Bowie, 10CC, Redbone, The Jackson 5 en Blue Swede.",
+      "afbeelding": "/src/assets/images/gardian-lp.png",
+      "prijs": 35.99,
+      "btw_tarief": 21,
+      "voorraad": 20,
+      "eigenschappen": ["vinyls","game/movie"]
+    },
+    {
+      "id": 16,
+      "title": "Harry's House (LP)\n",
+      "omschrijving": "Harry Styles' derde studio album: Harry's House",
+      "afbeelding": "/src/assets/images/harry-lp.png",
+      "prijs": 30.99,
+      "btw_tarief": 21,
+      "voorraad": 20,
+      "eigenschappen": ["vinyls","harry-styles"]
+    },
+    {
+      "id": 17,
+      "title": "Various Artists - 8 Mile (2 LP) (Original Soundtrack)\n",
+      "omschrijving": "8 Mile is een album van Various Artists uit 2016",
+      "afbeelding": "/src/assets/images/eminem-lp5.png",
+      "prijs": 40.99,
+      "btw_tarief": 21,
+      "voorraad": 20,
+      "eigenschappen": ["vinyls","eminem"]
+    },
+    {
+      "id": 18,
+      "title": "Eminem - Recovery (2 LP)",
+      "omschrijving": "Recovery is een album van Eminem uit 2013",
+      "afbeelding": "/src/assets/images/eminem-lp6.png",
+      "prijs": 36.99,
+      "btw_tarief": 21,
+      "voorraad": 20,
+      "eigenschappen": ["vinyls","eminem"]
+    },
+    {
+      "id": 19,
+      "title": "100 Plastic LP Hoezen",
+      "omschrijving": "Materiaal: Polyethyleen, 1mm\nAfmetingen: 322 x 325 mm",
+      "afbeelding": "/src/assets/images/lp-hoes.png",
+      "prijs": 30,
+      "btw_tarief": 21,
+      "voorraad": 20,
+      "eigenschappen": ["platenspelers & accesiores","hoezen"]
+    },
+    {
+      "id": 20,
+      "title": "Lenco LS-50WD Platenspeler met led",
+      "omschrijving": "Deze moderne platenspeler heeft twee ingebouwde speakers én LED verlichting bij het draaiplateau.",
+      "afbeelding": "/src/assets/images/platenspeler2.png",
+      "prijs": 134,
+      "btw_tarief": 21,
+      "voorraad": 20,
+      "eigenschappen": ["platenspelers & accesiores","platenspeler"]
+    }
+  ]
+}
